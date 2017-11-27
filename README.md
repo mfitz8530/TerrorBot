@@ -1,1 +1,2 @@
 # TerrorBot
+Used for SWGOH
